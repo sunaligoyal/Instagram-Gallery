@@ -89,7 +89,16 @@ form input{
     cursor: pointer;
  }
 
+#gallery {
+   width: 59%;
+   max-width: 550px;
+	
+}
 
+#thumbs {
+	width:40%;
+	max-width:300px;
+}
 
 
 @media (max-width:970px){
